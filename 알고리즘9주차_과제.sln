@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "알고리즘9주차_과제", "알고리즘9주차_과제\알고리즘9주차_과제.vcxproj", "{DF8116D9-9CB7-4B71-864F-8A968E4E2CF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF8116D9-9CB7-4B71-864F-8A968E4E2CF1}.Debug|x64.ActiveCfg = Debug|x64
+		{DF8116D9-9CB7-4B71-864F-8A968E4E2CF1}.Debug|x64.Build.0 = Debug|x64
+		{DF8116D9-9CB7-4B71-864F-8A968E4E2CF1}.Debug|x86.ActiveCfg = Debug|Win32
+		{DF8116D9-9CB7-4B71-864F-8A968E4E2CF1}.Debug|x86.Build.0 = Debug|Win32
+		{DF8116D9-9CB7-4B71-864F-8A968E4E2CF1}.Release|x64.ActiveCfg = Release|x64
+		{DF8116D9-9CB7-4B71-864F-8A968E4E2CF1}.Release|x64.Build.0 = Release|x64
+		{DF8116D9-9CB7-4B71-864F-8A968E4E2CF1}.Release|x86.ActiveCfg = Release|Win32
+		{DF8116D9-9CB7-4B71-864F-8A968E4E2CF1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A887DDF1-979D-49FC-91E1-6EE3C89AB31F}
+	EndGlobalSection
+EndGlobal
